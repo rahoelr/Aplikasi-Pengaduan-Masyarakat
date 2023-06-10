@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pengaduan App</string>
+    <string name="title_awal">PORTAL LAYANAN PENGADUAN DAN \nPELAPORAN MASYARAKAT KOTA \nSINGKAWANG</string>
+    <string name="text_button">MULAI LAPOR</string>
+</resources>
